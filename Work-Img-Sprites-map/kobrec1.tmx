@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.6" orientation="orthogonal" renderorder="right-down" width="3" height="3" tilewidth="16" tileheight="16" infinite="0" nextobjectid="1">
+ <tileset firstgid="1" source="ff4a_inside16.tsx"/>
+ <layer name="Vrstva dlaždic 1" width="3" height="3">
+  <data encoding="csv">
+0,0,0,
+944,896,1093,
+0,0,0
+</data>
+ </layer>
+</map>

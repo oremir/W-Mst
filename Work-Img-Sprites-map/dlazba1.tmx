@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.6" orientation="orthogonal" renderorder="right-down" width="4" height="6" tilewidth="16" tileheight="16" infinite="0" nextobjectid="1">
+ <tileset firstgid="1" source="TileA22.tsx"/>
+ <layer name="Vrstva dlaždic 1" width="4" height="6">
+  <data encoding="csv">
+25,26,27,28,
+57,58,59,60,
+89,90,91,92,
+121,122,123,124,
+153,154,155,156,
+185,186,187,188
+</data>
+ </layer>
+</map>
