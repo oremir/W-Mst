@@ -1,7 +1,7 @@
 {
    "type":"player",
-   "name":"Sofia Antares",
-   "usr_id":"45",
+   "name":"Petronella WilliAsa Hestiá",
+   "usr_id":"47",
    "x":"278",
    "y":"424",
    "properties":{
@@ -14,7 +14,7 @@
       "jumping_speed":"500",
       "money":"0",
       "pool":"players",
-      "texture":"sofia-an_spritesheet",
+      "texture":"petronella_h_spritesheet",
       "walking_speed":"90",
       "skills":{
          "standard":{
