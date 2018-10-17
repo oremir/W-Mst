@@ -1,7 +1,7 @@
 {
    "type":"player",
-   "name":"Petronella WilliAsa Hestiá",
-   "usr_id":"47",
+   "name":"Čaroděj od vedle",
+   "usr_id":"8",
    "x":"278",
    "y":"424",
    "properties":{
@@ -14,7 +14,7 @@
       "jumping_speed":"500",
       "money":"0",
       "pool":"players",
-      "texture":"petronella_h_spritesheet",
+      "texture":"boy_gm_spritesheet",
       "walking_speed":"90",
       "skills":{
          "standard":{
