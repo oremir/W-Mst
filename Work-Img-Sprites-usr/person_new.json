@@ -1,7 +1,7 @@
 {
    "type":"player",
-   "name":"Čaroděj od vedle",
-   "usr_id":"8",
+   "name":"Aziza Arvensis",
+   "usr_id":"50",
    "x":"278",
    "y":"424",
    "properties":{
@@ -14,7 +14,7 @@
       "jumping_speed":"500",
       "money":"0",
       "pool":"players",
-      "texture":"boy_gm_spritesheet",
+      "texture":"aziza_a_spritesheet",
       "walking_speed":"90",
       "skills":{
          "standard":{
