@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.6" orientation="orthogonal" renderorder="right-down" width="2" height="1" tilewidth="16" tileheight="16" infinite="0" nextobjectid="1">
+ <tileset firstgid="1" name="ff4_outside02" tilewidth="16" tileheight="16" tilecount="960" columns="30">
+  <image source="ff4_outside02.png" width="480" height="512"/>
+ </tileset>
+ <tileset firstgid="961" name="ff4a_ouside01" tilewidth="16" tileheight="16" tilecount="736" columns="32">
+  <image source="ff4a_ouside01.png" width="512" height="376"/>
+ </tileset>
+ <tileset firstgid="1697" name="ff4_outside02" tilewidth="16" tileheight="16" tilecount="960" columns="30">
+  <image source="ff4_outside02.png" width="480" height="512"/>
+ </tileset>
+ <layer name="Vrstva dlaždic 1" width="2" height="1">
+  <data encoding="csv">
+1242,1243
+</data>
+ </layer>
+</map>

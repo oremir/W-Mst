@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.6" orientation="orthogonal" renderorder="right-down" width="2" height="3" tilewidth="16" tileheight="16" infinite="0" nextobjectid="1">
+ <tileset firstgid="1" name="MapSample-048" tilewidth="16" tileheight="16" tilecount="5280" columns="66">
+  <image source="MapSample-048.jpg" width="1056" height="1280"/>
+ </tileset>
+ <tileset firstgid="5281" name="MapSample-048" tilewidth="16" tileheight="16" tilecount="5280" columns="66">
+  <image source="MapSample-048.jpg" width="1056" height="1280"/>
+ </tileset>
+ <layer name="Vrstva dlaždic 1" width="2" height="3">
+  <data encoding="csv">
+4502,4443,
+4568,4569,
+4634,4635
+</data>
+ </layer>
+</map>
