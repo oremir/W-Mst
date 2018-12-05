@@ -1,7 +1,7 @@
 {
    "type":"player",
-   "name":"Aziza Arvensis",
-   "usr_id":"50",
+   "name":"Lajla VonDe Blatho",
+   "usr_id":"52",
    "x":"278",
    "y":"424",
    "properties":{
@@ -9,12 +9,12 @@
       "bouncing":"20",
       "defense":"1",
       "group":"players",
-      "health":"98",
+      "health":"100",
       "items":"1-10",
       "jumping_speed":"500",
       "money":"0",
       "pool":"players",
-      "texture":"aziza_a_spritesheet",
+      "texture":"layla-b_spritesheet",
       "walking_speed":"90",
       "skills":{
          "standard":{
@@ -50,12 +50,14 @@
       "time":"1539603644631",
       "moon":"5",
       "relations":[
-      ]
-   },
-   "map":{
-      "old":"assets\/maps\/map8.json",
-      "new":"assets\/maps\/map8.json",
-      "new_int":"8"
-   },
-   "logged":"true"
+      ],
+       "ren_texture":"",
+       "gender":"female"
+    },
+    "map":{
+        "old_int":"8",
+        "new_int":"8"
+    },
+    "logged":"false"
 }
+   
