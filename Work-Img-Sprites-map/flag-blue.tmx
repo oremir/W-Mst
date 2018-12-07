@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.6" orientation="orthogonal" renderorder="right-down" width="1" height="3" tilewidth="16" tileheight="16" infinite="0" nextobjectid="1">
+ <tileset firstgid="1" name="map9_skola2p" tilewidth="16" tileheight="16" tilecount="1204" columns="43">
+  <image source="map9_skola2p.png" width="688" height="448"/>
+ </tileset>
+ <tileset firstgid="1205" name="koberec-modr1" tilewidth="16" tileheight="16" tilecount="12" columns="4">
+  <image source="koberec-modr1.png" width="64" height="48"/>
+ </tileset>
+ <layer name="Vrstva dlaždic 1" width="1" height="3">
+  <data encoding="csv">
+0,
+183,
+226
+</data>
+ </layer>
+</map>
