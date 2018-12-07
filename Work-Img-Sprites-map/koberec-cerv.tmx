@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.6" orientation="orthogonal" renderorder="right-down" width="6" height="3" tilewidth="16" tileheight="16" infinite="0" nextobjectid="1">
+ <tileset firstgid="1" name="map9_skola2p" tilewidth="16" tileheight="16" tilecount="1204" columns="43">
+  <image source="map9_skola2p.png" width="688" height="448"/>
+ </tileset>
+ <tileset firstgid="1205" name="flag-orange" tilewidth="16" tileheight="16" tilecount="2" columns="1">
+  <image source="flag-orange.png" width="16" height="32"/>
+ </tileset>
+ <layer name="Vrstva dlaždic 1" width="6" height="3">
+  <data encoding="csv">
+609,610,624,357,358,359,
+652,653,667,400,401,402,
+695,696,710,443,444,445
+</data>
+ </layer>
+</map>
