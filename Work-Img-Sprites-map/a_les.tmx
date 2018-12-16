@@ -61,7 +61,7 @@
   <image source="a_les7.png" width="320" height="320"/>
  </tileset>
  <tileset firstgid="5209" name="version_2i__pj2" tilewidth="16" tileheight="16" tilecount="320" columns="20">
-  <image source="../../../../../OneDrive/Obrázky/Maps/version_2i__pj2.png" width="320" height="256"/>
+  <image source="version_2i__pj2.png" width="320" height="256"/>
  </tileset>
  <tileset firstgid="5529" name="a_les8" tilewidth="16" tileheight="16" tilecount="400" columns="20">
   <image source="a_les8.png" width="320" height="320"/>
