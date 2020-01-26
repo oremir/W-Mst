@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.6" orientation="orthogonal" renderorder="right-down" width="20" height="20" tilewidth="16" tileheight="16" infinite="0" nextobjectid="1">
+ <tileset firstgid="1" name="items_spritesheet2" tilewidth="16" tileheight="16" tilecount="400" columns="20">
+  <image source="items_spritesheet2.png" width="320" height="320"/>
+ </tileset>
+ <tileset firstgid="401" name="kropicka" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="kropicka.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="402" name="pec" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="pec.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="403" name="peco1" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="peco1.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="404" name="peco2" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="peco2.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="405" name="cutora-prazd" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="cutora-prazd.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="406" name="cutora-pln" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="cutora-pln.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="407" name="dzban-vod" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="dzban-vod.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="408" name="kotlikb-vod" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="kotlikb-vod.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="409" name="kotlikz-vod" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="kotlikz-vod.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="410" name="kotlikbo1-vod" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="kotlikbo1-vod.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="411" name="kotlikbo2-vod" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="kotlikbo2-vod.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="412" name="kotlikzo1-vod" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="kotlikzo1-vod.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="413" name="kotlikzo2-vod" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="kotlikzo2-vod.png" width="16" height="16"/>
+ </tileset>
+ <layer name="Vrstva dlaždic 1" width="20" height="20">
+  <data encoding="csv">
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,
+21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,
+41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,
+61,62,401,401,402,403,403,405,406,407,408,409,412,413,410,411,77,78,79,80,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+</map>

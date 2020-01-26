@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.6" orientation="orthogonal" renderorder="right-down" width="20" height="1" tilewidth="16" tileheight="16" infinite="0" nextobjectid="1">
+ <tileset firstgid="1" name="sekera-t" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="sekera-t.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="2" name="sekera-t-r" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="sekera-t-r.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="3" name="krumpac-t" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="krumpac-t.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="4" name="hul-t" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="hul-t.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="5" name="sword_bronze-t" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="sword_bronze-t.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="6" name="sword_iron-t" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="sword_iron-t.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="7" source="hulka1.tsx"/>
+ <tileset firstgid="8" name="palice-t" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="palice-t.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="9" name="vetev-t" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="vetev-t.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="10" name="sekerakam-t1" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="sekerakam-t1.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="11" name="sekerakam-t2" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="sekerakam-t2.png" width="16" height="16"/>
+ </tileset>
+ <layer name="Vrstva dlaždic 1" width="20" height="1">
+  <data encoding="csv">
+0,1,2,3,4,5,6,7,8,9,10,11,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+</map>

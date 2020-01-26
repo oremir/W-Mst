@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.6" orientation="orthogonal" renderorder="right-down" width="20" height="20" tilewidth="16" tileheight="16" infinite="0" nextobjectid="1">
+ <tileset firstgid="1" name="items_spritesheet" tilewidth="16" tileheight="16" tilecount="400" columns="20">
+  <image source="items_spritesheet.png" width="320" height="320"/>
+ </tileset>
+ <tileset firstgid="401" name="chest_spritesheet" tilewidth="16" tileheight="16" tilecount="2" columns="2">
+  <image source="chest_spritesheet.png" width="32" height="16"/>
+ </tileset>
+ <tileset firstgid="403" name="parez" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="parez.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="404" name="dzban" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="dzban.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="405" name="drevo1" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="drevo1.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="406" name="stolek" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="stolek.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="407" name="stolek2" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="stolek2.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="408" name="stolek3" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="stolek3.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="409" name="stolek4" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="stolek4.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="410" name="stokrle" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="stokrle.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="411" name="vozik_plny" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="vozik_plny.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="412" name="vozik_prazdny" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="vozik_prazdny.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="413" name="bedna2" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="bedna2.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="414" name="sud" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="sud.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="415" name="hrazeni-kamen" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="hrazeni-kamen.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="416" name="kostra" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="kostra.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="417" name="spalky" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="spalky.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="418" name="drn" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="drn.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="419" name="kamen" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="kamen.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="420" name="gel" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="gel.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="421" name="hul" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="hul.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="422" name="sword_bronze" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="sword_bronze.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="423" name="sword_iron" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="sword_iron.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="424" name="parez1" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="../Sprites_map/parez1.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="425" source="hulka.tsx"/>
+ <tileset firstgid="426" name="stolicka1" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="stolicka1.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="427" name="map12_mesto1_hospoda" tilewidth="16" tileheight="16" tilecount="506" columns="23">
+  <image source="../../../../../../Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/mst/assets/images/map12_mesto1_hospoda.png" width="368" height="352"/>
+ </tileset>
+ <tileset firstgid="933" name="stul1" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="stul1.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="934" name="dzban1" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="dzban1.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="935" name="stolek5" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="stolek5.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="936" name="zbroj1" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="zbroj1.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="937" name="drevo2" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="drevo2.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="938" name="stolek6" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="stolek6.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="939" name="stolek7" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="stolek7.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="940" name="workbench" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="workbench.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="941" name="kmen" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="kmen.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="942" name="kulan" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="kulan.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="943" name="plank" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="plank.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="944" name="jablko" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="jablko.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="945" name="zampion" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="zampion.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="946" name="muchomurka" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="muchomurka.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="947" name="maso" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="maso.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="948" name="maso-pecene" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="maso-pecene.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="949" name="palice" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="palice.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="950" name="kuze" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="kuze.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="951" name="lisejnik" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="lisejnik.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="952" name="batoh" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="batoh.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="953" name="Trash_(item)" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="Trash_(item).png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="954" name="vetev" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="vetev.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="955" name="sekerakam" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="sekerakam.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="956" name="kresadlo" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="kresadlo.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="957" name="hmozdir1" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="hmozdir1.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="958" name="kotlikb" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="kotlikb.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="959" name="med-ruda" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="med-ruda.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="960" name="cin-ruda" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="cin-ruda.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="961" name="Coal" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="Coal.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="962" name="med" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="med.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="963" name="cin" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="cin.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="964" name="kotlik" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="kotlik.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="965" name="kotlikbo1" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="kotlikbo1.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="966" name="kotlikbo2" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="kotlikbo2.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="967" name="kotlikzo1" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="kotlikzo1.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="968" name="kotlikzo2" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="kotlikzo2.png" width="16" height="16"/>
+ </tileset>
+ <layer name="Vrstva dlaždic 1" width="20" height="20">
+  <data encoding="csv">
+1,2,3,4,401,402,934,937,935,938,939,933,426,411,412,413,414,415,416,417,
+418,419,424,420,421,422,423,425,936,940,941,942,943,944,945,946,947,948,949,950,
+951,952,953,954,955,956,957,959,960,961,962,963,958,964,965,966,967,968,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+</map>
