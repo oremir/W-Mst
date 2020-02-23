@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.6" orientation="orthogonal" renderorder="right-down" width="20" height="1" tilewidth="16" tileheight="16" infinite="0" nextobjectid="1">
+ <tileset firstgid="1" name="bubble" tilewidth="16" tileheight="16" tilecount="3" columns="3">
+  <image source="../New-Img/bubble.png" width="48" height="16"/>
+ </tileset>
+ <tileset firstgid="4" name="quest-mark01" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="../New-Img/quest-mark01.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="5" name="quest-mark02" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="../New-Img/quest-mark02.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="6" name="quest-mark03" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="../New-Img/quest-mark03.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="7" name="quest-mark04" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="../New-Img/quest-mark04.png" width="16" height="16"/>
+ </tileset>
+ <layer name="Vrstva dlaždic 1" width="20" height="1">
+  <data encoding="csv">
+1,2,3,4,5,6,7,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+</map>
