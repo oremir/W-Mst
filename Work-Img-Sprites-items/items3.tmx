@@ -120,11 +120,20 @@
  <tileset firstgid="2124" name="tavenina1" tilewidth="16" tileheight="16" tilecount="1" columns="1">
   <image source="tavenina1.png" width="16" height="16"/>
  </tileset>
+ <tileset firstgid="2125" name="hmozdir2" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="hmozdir2.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="2126" name="mapa5v3" tilewidth="16" tileheight="16" tilecount="880" columns="40">
+  <image source="../../../../../../Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/mst/assets/images/mapa5v4.png" width="640" height="352"/>
+ </tileset>
+ <tileset firstgid="3006" name="workbench1" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="workbench1.png" width="16" height="16"/>
+ </tileset>
  <layer name="Vrstva dlaždic 1" width="20" height="20">
   <data encoding="csv">
 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,
-21,22,23,24,25,26,27,28,29,30,31,32,33,417,35,36,37,38,39,40,
-41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,
+21,22,23,24,25,26,27,28,29,3006,31,32,33,417,35,36,37,38,39,40,
+41,42,43,44,45,46,2125,48,49,50,51,52,53,54,55,56,57,58,59,60,
 61,62,401,401,402,403,403,405,406,407,408,409,412,413,410,411,414,415,414,415,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
