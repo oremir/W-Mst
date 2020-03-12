@@ -129,6 +129,84 @@
  <tileset firstgid="3006" name="workbench1" tilewidth="16" tileheight="16" tilecount="1" columns="1">
   <image source="workbench1.png" width="16" height="16"/>
  </tileset>
+ <tileset firstgid="3007" name="kamnadoba_tav" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="kamnadoba_tav.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="3008" name="rozt_ingot" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="rozt_ingot.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="3009" name="kleste" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="kleste.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="3010" name="kladivo" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="kladivo.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="3011" name="map16_skola4p_oranz" tilewidth="16" tileheight="16" tilecount="2193" columns="43">
+  <image source="../Work-Img-Sprites-map/map16_skola4p_oranz.png" width="688" height="816"/>
+ </tileset>
+ <tileset firstgid="5204" name="map15_skola3p_mod" tilewidth="16" tileheight="16" tilecount="1350" columns="45">
+  <image source="../Work-Img-Sprites-map/map15_skola3p_mod.png" width="720" height="480"/>
+ </tileset>
+ <tileset firstgid="6554" name="map8_skola1" tilewidth="16" tileheight="16" tilecount="1978" columns="46">
+  <image source="../Work-Img-Sprites-map/map8_skola1.png" width="736" height="688"/>
+ </tileset>
+ <tileset firstgid="8532" name="kleste-t" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="kleste-t.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="8533" name="kovadlina" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="kovadlina.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="8534" name="rozt_tyc" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="rozt_tyc.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="8535" name="kladivo-t2" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="kladivo-t2.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="8536" name="hul-zel" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="hul-zel.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="8537" name="brousek" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="brousek.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="8538" name="zel_tyc" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="zel_tyc.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="8539" name="kopriva" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="kopriva.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="8540" name="vlakno-koprivy" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="vlakno-koprivy.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="8541" name="drev_rost" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="drev_rost.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="8542" name="provazek" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="provazek.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="8543" name="vrhacka" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="vrhacka.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="8544" name="nuz" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="nuz.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="8545" name="ostruzina" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="ostruzina.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="8546" name="smula" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="smula.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="8547" name="ostruzini" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="ostruzini.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="8548" name="jitrocel" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="jitrocel.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="8549" name="drev_zed" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="drev_zed.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="8550" name="smula2" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="smula2.png" width="16" height="16"/>
+ </tileset>
  <layer name="Vrstva dlaždic 1" width="20" height="20">
   <data encoding="csv">
 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,
@@ -155,13 +233,13 @@
  </layer>
  <layer name="Vrstva dlaždic 2" width="20" height="20">
   <data encoding="csv">
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8549,
 418,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2106,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,419,2103,2104,2105,0,0,0,0,0,0,0,0,0,0,0,408,409,
 0,420,421,2107,2108,2109,2110,2111,2112,2113,2114,2115,2116,2118,2117,2119,2120,2121,2122,2123,
-2124,2124,2124,2124,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+2124,2124,2124,2124,3007,3008,3009,3010,8533,8534,8538,8537,8539,8540,8541,8542,8543,8544,8545,8550,
+8547,8548,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

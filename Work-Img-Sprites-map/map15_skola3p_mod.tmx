@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.0" orientation="orthogonal" renderorder="right-down" width="65" height="50" tilewidth="16" tileheight="16" nextobjectid="1">
+<map version="1.0" tiledversion="1.1.6" orientation="orthogonal" renderorder="right-down" width="65" height="50" tilewidth="16" tileheight="16" infinite="0" nextobjectid="3">
  <tileset firstgid="1" name="map15_skola3p_mod" tilewidth="16" tileheight="16" tilecount="1350" columns="45">
   <image source="map15_skola3p_mod.png" width="720" height="480"/>
  </tileset>
- <layer name="background" width="65" height="50" visible="0">
+ <layer name="background" width="65" height="50">
   <data encoding="csv">
 23,24,25,26,27,28,29,30,31,32,33,34,35,23,23,23,23,23,23,23,23,23,23,23,23,23,23,23,23,23,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,38,38,38,33,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,
 23,23,24,23,23,23,23,23,23,23,23,23,23,23,23,23,23,23,24,25,26,27,28,29,30,31,23,23,23,23,23,23,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,37,38,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,
@@ -111,5 +111,8 @@
 23,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,38,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,38,38,32,33,34,35,36,37,38,38,38,38,28,29,30,31,32,33,34,35,36,37,38,38,38,38,38,38,38,38,38,38
 </data>
  </layer>
- <objectgroup name="objects"/>
+ <objectgroup name="objects">
+  <object id="1" name="goout01" type="goout" gid="1" x="672" y="378" width="16" height="16"/>
+  <object id="2" name="goout02" gid="1" x="672" y="499" width="16" height="16"/>
+ </objectgroup>
 </map>
