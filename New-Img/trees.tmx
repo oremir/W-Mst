@@ -18,6 +18,15 @@
  <tileset firstgid="11817" name="FinalFantasyIIOverworldMapBG" tilewidth="16" tileheight="16" tilecount="65536" columns="256">
   <image source="E:/Phaser/Src-img/Sprites_map/FinalFantasyIIOverworldMapBG.png" width="4096" height="4096"/>
  </tileset>
+ <tileset firstgid="77353" name="trees03" tilewidth="16" tileheight="16" tilecount="400" columns="20">
+  <image source="trees03.png" width="320" height="320"/>
+ </tileset>
+ <tileset firstgid="77753" name="chajda-mece" tilewidth="16" tileheight="16" tilecount="2" columns="1">
+  <image source="../Work-Img-Sprites-map/chajda-mece.png" width="16" height="32"/>
+ </tileset>
+ <tileset firstgid="77755" name="trees04" tilewidth="16" tileheight="16" tilecount="400" columns="20">
+  <image source="../Work-Img-Sprites-map/trees04.png" width="320" height="320"/>
+ </tileset>
  <layer name="Vrstva dlaždic 1" width="20" height="20">
   <data encoding="csv">
 11017,11018,11019,11020,321,322,0,0,411,0,0,0,0,0,0,0,11033,1724,1725,1726,
@@ -140,13 +149,13 @@
  </layer>
  <layer name="Vrstva dlaždic 6" width="20" height="20">
   <data encoding="csv">
-0,0,0,0,0,0,0,0,0,0,0,0,10276,1428,0,0,0,0,0,0,
-0,0,0,0,0,0,0,0,0,0,0,0,10376,1528,0,0,0,0,0,0,
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,77362,0,77766,10276,1428,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,77382,0,77786,10376,1528,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,77766,77766,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,77823,77824,77825,77786,77786,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,77843,77844,77845,77766,77766,77766,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,77863,77864,77865,77786,77786,77786,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,77883,77884,77885,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
