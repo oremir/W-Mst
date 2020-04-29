@@ -213,6 +213,12 @@
  <tileset firstgid="8552" name="trava2" tilewidth="16" tileheight="16" tilecount="1" columns="1">
   <image source="trava2.png" width="16" height="16"/>
  </tileset>
+ <tileset firstgid="8553" name="bow_inv" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="bow_inv.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="8554" name="arrow_inv" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="arrow_inv.png" width="16" height="16"/>
+ </tileset>
  <layer name="Vrstva dlaždic 1" width="20" height="20">
   <data encoding="csv">
 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,
@@ -245,7 +251,7 @@
 0,0,0,419,2103,2104,2105,0,0,0,0,0,0,0,0,0,0,0,408,409,
 0,420,421,2107,2108,2109,2110,2111,2112,2113,2114,2115,2116,2118,2117,2119,2120,2121,2122,2123,
 2124,2124,2124,2124,3007,3008,3009,3010,8533,8534,8538,8537,8539,8540,8541,8542,8543,8544,8545,8550,
-8547,8548,8551,8552,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+8547,8548,8551,8552,8553,8554,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

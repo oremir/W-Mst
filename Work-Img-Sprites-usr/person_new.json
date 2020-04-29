@@ -1,7 +1,7 @@
 {
    "type":"player",
-   "name":"Lajla VonDe Blatho",
-   "usr_id":"52",
+   "name":"Lyria",
+   "usr_id":"53",
    "x":"278",
    "y":"424",
    "properties":{
@@ -14,7 +14,7 @@
       "jumping_speed":"500",
       "money":"0",
       "pool":"players",
-      "texture":"layla-b_spritesheet",
+      "texture":"morigan_spritesheet",
       "walking_speed":"90",
       "skills":{
          "standard":{
@@ -37,7 +37,7 @@
       "stats":{
          "health":"100",
          "health_max":"100",
-         "stress":"598"
+         "stress":"0"
       },
       "abilities":{
          "strength":"8",

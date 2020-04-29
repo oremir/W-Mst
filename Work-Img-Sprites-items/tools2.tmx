@@ -12,9 +12,15 @@
  <tileset firstgid="23" name="kladivo-t2" tilewidth="16" tileheight="16" tilecount="1" columns="1">
   <image source="kladivo-t2.png" width="16" height="16"/>
  </tileset>
+ <tileset firstgid="24" name="bow" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="bow.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="25" name="bow_rot" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="bow_rot.png" width="16" height="16"/>
+ </tileset>
  <layer name="Vrstva dlaždic 1" width="20" height="1">
   <data encoding="csv">
-1,2,3,4,5,6,7,8,9,10,11,12,21,22,23,0,0,0,0,0
+1,2,3,4,5,6,7,8,9,10,11,12,21,22,23,24,25,0,0,0
 </data>
  </layer>
 </map>
