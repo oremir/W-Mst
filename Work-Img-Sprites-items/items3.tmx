@@ -234,6 +234,18 @@
  <tileset firstgid="8559" name="ruda-zel" tilewidth="16" tileheight="16" tilecount="1" columns="1">
   <image source="ruda-zel.png" width="16" height="16"/>
  </tileset>
+ <tileset firstgid="8560" name="bush_small01" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="../Work-Img-Sprites-map/bush_small01.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="8561" name="tree_small01" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="../Work-Img-Sprites-map/tree_small01.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="8562" name="a_les09" tilewidth="16" tileheight="16" tilecount="400" columns="20">
+  <image source="../Work-Img-Sprites-map/a_les09.png" width="320" height="320"/>
+ </tileset>
+ <tileset firstgid="8962" name="bobule" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="bobule.png" width="16" height="16"/>
+ </tileset>
  <layer name="Vrstva dlaždic 1" width="20" height="20">
   <data encoding="csv">
 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,
@@ -242,7 +254,7 @@
 61,62,401,401,402,403,403,405,406,407,408,409,412,413,410,411,414,415,414,415,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-0,0,0,0,0,0,0,8558,8557,8559,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,8558,8557,8559,8560,8561,8621,8641,8962,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
