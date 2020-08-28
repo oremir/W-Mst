@@ -1,7 +1,7 @@
 {
    "type":"player",
-   "name":"Lyria",
-   "usr_id":"53",
+   "name":"Haris Loverdos",
+   "usr_id":"61",
    "x":"278",
    "y":"424",
    "properties":{
@@ -14,7 +14,7 @@
       "jumping_speed":"500",
       "money":"0",
       "pool":"players",
-      "texture":"morigan_spritesheet",
+      "texture":"haris_spritesheet",
       "walking_speed":"90",
       "skills":{
          "standard":{
@@ -51,8 +51,8 @@
       "moon":"5",
       "relations":[
       ],
-       "ren_texture":"",
-       "gender":"female"
+       "ren_texture":"haris_ren",
+       "gender":"male"
     },
     "map":{
         "old_int":"8",

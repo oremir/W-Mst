@@ -246,6 +246,81 @@
  <tileset firstgid="8962" name="bobule" tilewidth="16" tileheight="16" tilecount="1" columns="1">
   <image source="bobule.png" width="16" height="16"/>
  </tileset>
+ <tileset firstgid="8963" name="stinka" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="stinka.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="8964" name="dubenky" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="dubenky.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="8965" name="zemina" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="zemina.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="8966" name="kvetinac_prazd" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="kvetinac_prazd.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="8967" name="kvetinac" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="kvetinac.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="8968" name="kvetinacssaz" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="kvetinacssaz.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="8969" name="kvetinacsrost" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="kvetinacsrost.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="8970" name="safran" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="safran.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="8971" name="safran_cib" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="safran_cib.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="8972" name="dubenkydrc" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="dubenkydrc.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="8973" name="arabskaguma" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="arabskaguma.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="8974" name="destilvoda" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="destilvoda.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="8975" name="voda-destil" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="voda-destil.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="8976" name="tinktura" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="tinktura.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="8977" name="tinktura" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="tinktura.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="8978" name="tinktura-bez" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="tinktura-bez.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="8979" name="zel-skalice" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="zel-skalice.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="8980" name="inkoust" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="inkoust.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="8981" name="inkoust-bez" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="inkoust-bez.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="8982" name="skl_tyc" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="skl_tyc.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="8983" name="lektvar-prazd" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="lektvar-prazd.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="8984" name="blizna-safranu" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="blizna-safranu.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="8985" name="bioodpad" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="bioodpad.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="8986" name="map7_dungeon2" tilewidth="16" tileheight="16" tilecount="1380" columns="30">
+  <image source="../../../../../../Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/mst/assets/images/map7_dungeon2.png" width="480" height="736"/>
+ </tileset>
+ <tileset firstgid="10366" name="map22_pozemky" tilewidth="16" tileheight="16" tilecount="10100" columns="101">
+  <image source="../../../../../../Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/mst/assets/images/map22_pozemky.png" width="1616" height="1600"/>
+ </tileset>
  <layer name="Vrstva dlaždic 1" width="20" height="20">
   <data encoding="csv">
 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,
@@ -254,8 +329,8 @@
 61,62,401,401,402,403,403,405,406,407,408,409,412,413,410,411,414,415,414,415,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-0,0,0,0,0,0,0,8558,8557,8559,8560,8561,8621,8641,8962,0,0,0,0,0,
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,8558,8557,8559,8560,8561,8621,8641,8962,8963,8964,8965,8966,8967,
+8968,8969,8970,8971,8972,8973,8974,8975,8976,8978,8979,8980,8981,8982,8983,8984,0,8985,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
