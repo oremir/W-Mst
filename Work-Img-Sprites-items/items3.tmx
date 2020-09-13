@@ -321,6 +321,15 @@
  <tileset firstgid="10366" name="map22_pozemky" tilewidth="16" tileheight="16" tilecount="10100" columns="101">
   <image source="../../../../../../Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/mst/assets/images/map22_pozemky.png" width="1616" height="1600"/>
  </tileset>
+ <tileset firstgid="20466" name="kvetinac-zal" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="kvetinac-zal.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="20467" name="kvetinacssaz-zal" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="kvetinacssaz-zal.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="20468" name="kvetinacsrost-zal" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="kvetinacsrost-zal.png" width="16" height="16"/>
+ </tileset>
  <layer name="Vrstva dlaždic 1" width="20" height="20">
   <data encoding="csv">
 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,
@@ -330,8 +339,8 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,8558,8557,8559,8560,8561,8621,8641,8962,8963,8964,8965,8966,8967,
-8968,8969,8970,8971,8972,8973,8974,8975,8976,8978,8979,8980,8981,8982,8983,8984,0,8985,0,0,
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+8968,8969,8970,8971,8972,8973,8974,8975,8976,8978,8979,8980,8981,8982,8983,8984,0,8985,20466,20467,
+20468,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

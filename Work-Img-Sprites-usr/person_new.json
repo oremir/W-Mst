@@ -1,7 +1,7 @@
 {
    "type":"player",
-   "name":"Haris Loverdos",
-   "usr_id":"61",
+   "name":"Veronika Vyhnanovska",
+   "usr_id":"77",
    "x":"278",
    "y":"424",
    "properties":{
@@ -14,7 +14,7 @@
       "jumping_speed":"500",
       "money":"0",
       "pool":"players",
-      "texture":"haris_spritesheet",
+      "texture":"girl_red_mage_spritesheet",
       "walking_speed":"90",
       "skills":{
          "standard":{
@@ -48,11 +48,13 @@
       ],
       "equip":"27",
       "time":"1539603644631",
+	  "gtimems":"3740580000",
       "moon":"5",
       "relations":[
       ],
-       "ren_texture":"haris_ren",
-       "gender":"male"
+	  "badges":{"0":"M","1":"S_3","4":"K_49","6":"M_3"},
+       "ren_texture":"",
+       "gender":"female"
     },
     "map":{
         "old_int":"8",
@@ -60,4 +62,3 @@
     },
     "logged":"false"
 }
-   
