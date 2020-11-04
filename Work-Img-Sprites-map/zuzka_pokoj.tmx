@@ -1,88 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.0" tiledversion="1.1.6" orientation="orthogonal" renderorder="right-down" width="50" height="50" tilewidth="16" tileheight="16" infinite="0" nextobjectid="1">
  <tileset firstgid="1" name="kuba2" tilewidth="16" tileheight="16" tilecount="3000" columns="60">
-  <image source="../../../../../Users/Oremir/Documents/GitHub/W-Mst/Work-Img-Sprites-map/kuba2.png" width="960" height="800"/>
+  <image source="kuba2.png" width="960" height="800"/>
  </tileset>
  <tileset firstgid="3001" name="zuz_zed01" tilewidth="16" tileheight="16" tilecount="15" columns="5">
-  <image source="../../../../../Users/Oremir/Documents/GitHub/W-Mst/Work-Img-Sprites-map/zuz_zed01.png" width="85" height="53"/>
+  <image source="zuz_zed01.png" width="85" height="53"/>
  </tileset>
  <tileset firstgid="3016" name="zuz_podlaha02" tilewidth="16" tileheight="16" tilecount="300" columns="12">
-  <image source="../../../../../Users/Oremir/Documents/GitHub/W-Mst/Work-Img-Sprites-map/zuz_podlaha02.png" width="200" height="400"/>
+  <image source="zuz_podlaha02.png" width="200" height="400"/>
  </tileset>
  <tileset firstgid="3316" name="map20_osetrovna" tilewidth="16" tileheight="16" tilecount="572" columns="26">
-  <image source="../../../../../Users/Oremir/Documents/GitHub/W-Mst/Work-Img-Sprites-map/map20_osetrovna.png" width="416" height="352"/>
+  <image source="map20_osetrovna.png" width="416" height="352"/>
  </tileset>
  <tileset firstgid="3888" name="zuz_postel" tilewidth="16" tileheight="16" tilecount="6" columns="2">
-  <image source="../../../../../Users/Oremir/Documents/GitHub/W-Mst/Work-Img-Sprites-map/zuz_postel.png" width="32" height="48"/>
+  <image source="zuz_postel.png" width="32" height="48"/>
  </tileset>
  <tileset firstgid="3894" name="komoda01" tilewidth="16" tileheight="16" tilecount="6" columns="2">
-  <image source="../../../../../Users/Oremir/Documents/GitHub/W-Mst/Work-Img-Sprites-map/komoda01.png" width="32" height="48"/>
+  <image source="komoda01.png" width="32" height="48"/>
  </tileset>
  <tileset firstgid="3900" name="nocni-stolek-inter1" tilewidth="16" tileheight="16" tilecount="1" columns="1">
-  <image source="../../../../../Users/Oremir/Documents/GitHub/W-Mst/Work-Img-Sprites-map/nocni-stolek-inter1.png" width="16" height="16"/>
+  <image source="nocni-stolek-inter1.png" width="16" height="16"/>
  </tileset>
  <tileset firstgid="3901" name="stolek_kvet" tilewidth="16" tileheight="16" tilecount="3" columns="1">
-  <image source="../../../../../Users/Oremir/Documents/GitHub/W-Mst/Work-Img-Sprites-map/stolek_kvet.png" width="16" height="48"/>
+  <image source="stolek_kvet.png" width="16" height="48"/>
  </tileset>
  <tileset firstgid="3904" name="stolek_kruh" tilewidth="16" tileheight="16" tilecount="6" columns="2">
-  <image source="../../../../../Users/Oremir/Documents/GitHub/W-Mst/Work-Img-Sprites-map/stolek_kruh.png" width="32" height="48"/>
+  <image source="stolek_kruh.png" width="32" height="48"/>
  </tileset>
  <tileset firstgid="3910" name="zuz_podlaha01" tilewidth="16" tileheight="16" tilecount="144" columns="12">
-  <image source="../../../../../Users/Oremir/Documents/GitHub/W-Mst/Work-Img-Sprites-map/zuz_podlaha01.png" width="200" height="200"/>
+  <image source="zuz_podlaha01.png" width="200" height="200"/>
  </tileset>
  <tileset firstgid="4054" name="zuz_podlaha03" tilewidth="16" tileheight="16" tilecount="400" columns="20">
-  <image source="../../../../../Users/Oremir/Documents/GitHub/W-Mst/Work-Img-Sprites-map/zuz_podlaha03.png" width="320" height="320"/>
+  <image source="zuz_podlaha03.png" width="320" height="320"/>
  </tileset>
  <tileset firstgid="4454" name="komoda02" tilewidth="16" tileheight="16" tilecount="6" columns="2">
-  <image source="../../../../../Users/Oremir/Documents/GitHub/W-Mst/Work-Img-Sprites-map/komoda02.png" width="32" height="48"/>
+  <image source="komoda02.png" width="32" height="48"/>
  </tileset>
  <tileset firstgid="4460" name="pec01-BoF2-in" tilewidth="16" tileheight="16" tilecount="30" columns="6">
-  <image source="../../../../../Users/Oremir/Documents/GitHub/W-Mst/Work-Img-Sprites-map/pec01-BoF2-in.png" width="96" height="80"/>
+  <image source="pec01-BoF2-in.png" width="96" height="80"/>
  </tileset>
  <tileset firstgid="4490" name="chajda-stul" tilewidth="16" tileheight="16" tilecount="4" columns="2">
-  <image source="../../../../../Users/Oremir/Documents/GitHub/W-Mst/Work-Img-Sprites-map/chajda-stul.png" width="32" height="32"/>
+  <image source="chajda-stul.png" width="32" height="32"/>
  </tileset>
  <tileset firstgid="4494" name="chajda-stolicka" tilewidth="16" tileheight="16" tilecount="1" columns="1">
-  <image source="../../../../../Users/Oremir/Documents/GitHub/W-Mst/Work-Img-Sprites-map/chajda-stolicka.png" width="16" height="16"/>
+  <image source="chajda-stolicka.png" width="16" height="16"/>
  </tileset>
  <tileset firstgid="4495" name="sporak" tilewidth="16" tileheight="16" tilecount="2" columns="1">
-  <image source="../../../../../Users/Oremir/Documents/GitHub/W-Mst/Work-Img-Sprites-map/sporak.png" width="16" height="32"/>
+  <image source="sporak.png" width="16" height="32"/>
  </tileset>
  <tileset firstgid="4497" name="stolicka02-inter" tilewidth="16" tileheight="16" tilecount="2" columns="1">
-  <image source="../../../../../Users/Oremir/Documents/GitHub/W-Mst/Work-Img-Sprites-map/stolicka02-inter.png" width="16" height="32"/>
+  <image source="stolicka02-inter.png" width="16" height="32"/>
  </tileset>
  <tileset firstgid="4499" name="psaci-stul-modr-levy" tilewidth="16" tileheight="16" tilecount="4" columns="2">
-  <image source="../../../../../Users/Oremir/Documents/GitHub/W-Mst/Work-Img-Sprites-map/psaci-stul-modr-levy.png" width="32" height="32"/>
+  <image source="psaci-stul-modr-levy.png" width="32" height="32"/>
  </tileset>
  <tileset firstgid="4503" name="hodiny" tilewidth="16" tileheight="16" tilecount="3" columns="1">
-  <image source="../../../../../Users/Oremir/Documents/GitHub/W-Mst/Work-Img-Sprites-map/hodiny.png" width="16" height="48"/>
+  <image source="hodiny.png" width="16" height="48"/>
  </tileset>
  <tileset firstgid="4506" name="krb5v2" tilewidth="16" tileheight="16" tilecount="9" columns="3">
-  <image source="../../../../../Users/Oremir/Documents/GitHub/W-Mst/Work-Img-Sprites-map/krb5v2.png" width="48" height="48"/>
+  <image source="krb5v2.png" width="48" height="48"/>
  </tileset>
  <tileset firstgid="4515" name="koberec01-v2" tilewidth="16" tileheight="16" tilecount="9" columns="3">
-  <image source="../../../../../Users/Oremir/Documents/GitHub/W-Mst/Work-Img-Sprites-map/koberec01-v2.png" width="48" height="48"/>
+  <image source="koberec01-v2.png" width="48" height="48"/>
  </tileset>
  <tileset firstgid="4524" name="koberec01-v2-modr" tilewidth="16" tileheight="16" tilecount="9" columns="3">
-  <image source="../../../../../Users/Oremir/Documents/GitHub/W-Mst/Work-Img-Sprites-map/koberec01-v2-modr.png" width="48" height="48"/>
+  <image source="koberec01-v2-modr.png" width="48" height="48"/>
  </tileset>
  <tileset firstgid="4533" name="stul_velky" tilewidth="16" tileheight="16" tilecount="76" columns="4">
-  <image source="../../../../../Users/Oremir/Documents/GitHub/W-Mst/Work-Img-Sprites-map/stul_velky.png" width="64" height="304"/>
+  <image source="stul_velky.png" width="64" height="304"/>
  </tileset>
  <tileset firstgid="4609" name="stul-zidle-modr02" tilewidth="16" tileheight="16" tilecount="12" columns="4">
-  <image source="../../../../../Users/Oremir/Documents/GitHub/W-Mst/Work-Img-Sprites-map/stul-zidle-modr02.png" width="64" height="48"/>
+  <image source="stul-zidle-modr02.png" width="64" height="48"/>
  </tileset>
  <tileset firstgid="4621" name="rostlina-o03" tilewidth="16" tileheight="16" tilecount="1" columns="1">
-  <image source="../../../../../Users/Oremir/Documents/GitHub/W-Mst/Work-Img-Sprites-items/rostlina-o03.png" width="16" height="16"/>
+  <image source="../Work-Img-Sprites-items/rostlina-o03.png" width="16" height="16"/>
  </tileset>
  <tileset firstgid="4622" name="rostlina-o05" tilewidth="16" tileheight="16" tilecount="4" columns="2">
-  <image source="../../../../../Users/Oremir/Documents/GitHub/W-Mst/Work-Img-Sprites-items/rostlina-o05.png" width="42" height="32"/>
+  <image source="../Work-Img-Sprites-items/rostlina-o05.png" width="42" height="32"/>
  </tileset>
  <tileset firstgid="4626" name="okno_vrch_trans" tilewidth="16" tileheight="16" tilecount="1" columns="1">
-  <image source="../../../../../Users/Oremir/Documents/GitHub/W-Mst/Work-Img-Sprites-map/okno_vrch_trans.png" width="16" height="16"/>
+  <image source="okno_vrch_trans.png" width="16" height="16"/>
  </tileset>
  <tileset firstgid="4627" name="obraz" tilewidth="16" tileheight="16" tilecount="1" columns="1">
-  <image source="../../../../../Users/Oremir/Documents/GitHub/W-Mst/Work-Img-Sprites-map/obraz.png" width="16" height="16"/>
+  <image source="obraz.png" width="16" height="16"/>
  </tileset>
  <layer name="Vrstva dlaždic 4" width="50" height="50">
   <data encoding="csv">

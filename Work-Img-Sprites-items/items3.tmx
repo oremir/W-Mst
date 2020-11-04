@@ -330,6 +330,57 @@
  <tileset firstgid="20468" name="kvetinacsrost-zal" tilewidth="16" tileheight="16" tilecount="1" columns="1">
   <image source="kvetinacsrost-zal.png" width="16" height="16"/>
  </tileset>
+ <tileset firstgid="20469" name="sem_safran" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="sem_safran.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="20470" name="sem_medunka" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="sem_medunka.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="20471" name="sazenicka" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="sazenicka.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="20472" name="medunka" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="medunka.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="20473" name="list_medunka" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="list_medunka.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="20474" name="kos01" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="kos01.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="20475" name="vymesek-plisnacek2" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="vymesek-plisnacek2.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="20476" name="sliz-tlustocerv" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="sliz-tlustocerv.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="20477" name="svab" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="svab.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="20478" name="oko_svaba" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="oko_svaba.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="20479" name="cistivka" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="cistivka.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="20480" name="bioodpad2" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="bioodpad2.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="20481" name="list_medunka2" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="list_medunka2.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="20482" name="cist-lektv-bez" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="cist-lektv-bez.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="20483" name="cist-lektv" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="cist-lektv.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="20484" name="srp" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="srp.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="20485" name="serpentin" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="serpentin.png" width="16" height="16"/>
+ </tileset>
  <layer name="Vrstva dlaždic 1" width="20" height="20">
   <data encoding="csv">
 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,
@@ -340,7 +391,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,8558,8557,8559,8560,8561,8621,8641,8962,8963,8964,8965,8966,8967,
 8968,8969,8970,8971,8972,8973,8974,8975,8976,8978,8979,8980,8981,8982,8983,8984,0,8985,20466,20467,
-20468,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+20468,20469,20470,20471,20472,20481,20474,20475,20476,20477,20478,20479,20480,20482,20483,20484,20485,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

@@ -1,0 +1,38 @@
+{
+	 "type":"NPC",
+	 "name":"NPC_2",
+	 "x":503,
+	 "y":480
+	 "properties":
+		{
+		 "group":"NPCs",
+		 "unique_id":"2",
+		 "pool":"NPCs",
+		 "p_name":"Velo",                                                
+		 "stype":"pet",
+		 "relations_allowed":"false",
+		 "region":"1",
+		 "texture":"dino_spritesheet"
+		}
+}
+
+
+
+{
+	 "type":"NPC",
+	 "name":"NPC_8",
+"x":287,"y":147,
+	 "properties":
+		{
+		 "group":"NPCs",
+		 "unique_id":"8",
+		 "pool":"NPCs",
+"immovable":false,
+		 "p_name":"Velo",                                                
+		 "stype":"pet",
+"ftype":"NPC",
+		 "relations_allowed":"true",
+		 "region":"1",
+		 "texture":"dino_spritesheet"
+		}
+}
