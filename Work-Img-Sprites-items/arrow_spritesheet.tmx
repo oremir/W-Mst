@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.6" orientation="orthogonal" renderorder="right-down" width="10" height="1" tilewidth="16" tileheight="16" infinite="0" nextobjectid="1">
+ <tileset firstgid="1" name="arrow1" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="arrow1.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="2" name="kamen_vrh" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="kamen_vrh.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="3" name="maso_vrh" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="maso_vrh.png" width="16" height="16"/>
+ </tileset>
+ <layer name="Vrstva dlaždic 1" width="10" height="1">
+  <data encoding="csv">
+1,2,3,0,0,0,0,0,0,0
+</data>
+ </layer>
+</map>

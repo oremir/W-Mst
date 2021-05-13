@@ -67,7 +67,7 @@
   <image source="klic_m.png" width="16" height="16"/>
  </tileset>
  <tileset firstgid="422" name="map14_mesto1_kuba2" tilewidth="16" tileheight="16" tilecount="1681" columns="41">
-  <image source="../../../../../../Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/mst/assets/images/map14_mesto1_kuba2.png" width="656" height="656"/>
+  <image source="../Work-Img-Sprites-map/map14_mesto1_kuba2.png" width="656" height="656"/>
  </tileset>
  <tileset firstgid="2103" name="pec02" tilewidth="16" tileheight="16" tilecount="1" columns="1">
   <image source="pec02.png" width="16" height="16"/>
@@ -124,7 +124,7 @@
   <image source="hmozdir2.png" width="16" height="16"/>
  </tileset>
  <tileset firstgid="2126" name="mapa5v3" tilewidth="16" tileheight="16" tilecount="880" columns="40">
-  <image source="../../../../../../Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/mst/assets/images/mapa5v4.png" width="640" height="352"/>
+  <image source="../../Mst/mst/assets/images/mapa5v4.png" width="640" height="352"/>
  </tileset>
  <tileset firstgid="3006" name="workbench1" tilewidth="16" tileheight="16" tilecount="1" columns="1">
   <image source="workbench1.png" width="16" height="16"/>
@@ -316,10 +316,10 @@
   <image source="bioodpad.png" width="16" height="16"/>
  </tileset>
  <tileset firstgid="8986" name="map7_dungeon2" tilewidth="16" tileheight="16" tilecount="1380" columns="30">
-  <image source="../../../../../../Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/mst/assets/images/map7_dungeon2.png" width="480" height="736"/>
+  <image source="../Work-Img-Sprites-map/map7_dungeon2.png" width="480" height="736"/>
  </tileset>
  <tileset firstgid="10366" name="map22_pozemky" tilewidth="16" tileheight="16" tilecount="10100" columns="101">
-  <image source="../../../../../../Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/mst/assets/images/map22_pozemky.png" width="1616" height="1600"/>
+  <image source="../Work-Img-Sprites-map/map22_pozemky.png" width="1616" height="1600"/>
  </tileset>
  <tileset firstgid="20466" name="kvetinac-zal" tilewidth="16" tileheight="16" tilecount="1" columns="1">
   <image source="kvetinac-zal.png" width="16" height="16"/>
@@ -387,6 +387,18 @@
  <tileset firstgid="20487" name="kotvicnik1" tilewidth="16" tileheight="16" tilecount="1" columns="1">
   <image source="kotvicnik1.png" width="16" height="16"/>
  </tileset>
+ <tileset firstgid="20488" name="pavucina" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="pavucina.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="20489" name="Terra_sigillata" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="Terra_sigillata.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="20490" name="amul-ustknuti" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="amul-ustknuti.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="20491" name="angostura-vyhonek" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="angostura-vyhonek.png" width="16" height="16"/>
+ </tileset>
  <layer name="Vrstva dlaždic 1" width="20" height="20">
   <data encoding="csv">
 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,
@@ -398,7 +410,7 @@
 0,0,0,0,0,0,0,8558,8557,8559,8560,8561,8621,8641,8962,8963,8964,8965,8966,8967,
 8968,8969,8970,8971,8972,8973,8974,8975,8976,8978,8979,8980,8981,8982,8983,8984,0,8985,20466,20467,
 20468,20469,20470,20471,20472,20481,20474,20475,20476,20477,20478,20479,20480,20482,20483,20484,20485,20486,20471,20487,
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+20488,20489,20490,3008,20491,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

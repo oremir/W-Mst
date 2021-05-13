@@ -1,0 +1,98 @@
+{
+    "type": "player",
+    "name": "Drizzt",
+    "usr_id": 93,
+    "x": 290,
+    "y": 110,
+    "properties": {
+        "attack": "1",
+        "bouncing": "20",
+        "defense": "1",
+        "group": "players",
+        "health": "100",
+        "items": "1-100",
+        "jumping_speed": "500",
+        "money": "0",
+        "pool": "players",
+        "texture": "girl_st_spritesheet",
+        "walking_speed": "90",
+        "skills": {
+            "standard": {
+                "exp": 1,
+                "level": 1
+            },
+            "fighter": {
+                "exp": 1,
+                "level": 1
+            },
+            "woodcutter": {
+                "exp": "1",
+                "level": "1"
+            },
+            "stonebreaker": {
+                "exp": "1",
+                "level": "1"
+            },
+            "magic": {
+                "exp": 0,
+                "level": 1
+            }
+        },
+        "stats": {
+            "health": 98,
+            "health_max": 100,
+            "stress": 0
+        },
+        "abilities": {
+            "strength": "8",
+            "constitution": 8,
+            "intelligence": 8
+        },
+        "places": [
+            {
+                "map_int": "2",
+                "region": "1",
+                "visit": 2
+            },
+            {
+                "map_int": "40",
+                "region": "1",
+                "visit": 1
+            }
+        ],
+        "equip": "0",
+        "time": 1618136705725,
+        "gtimems": 3741300000,
+        "moon": 5,
+        "relations": [
+            {
+                "name": "Naomi Anemone",
+                "uid": 92,
+                "type": "player",
+                "exp": 1
+            },
+            {
+                "name": "Obch. Agnes",
+                "uid": 5,
+                "type": "NPC",
+                "exp": 1
+            }
+        ],
+        "ren_texture": "girl_st_ren",
+        "gender": "female",
+        "bag": "",
+        "gtimealpha": "0",
+        "moon_loop": 0,
+        "quests": {},
+        "keys": [],
+        "badges": {},
+        "rumours": [],
+        "broadcast": [],
+        "followers": []
+    },
+    "map": {
+        "old_int": 2,
+        "new_int": 2
+    },
+    "logged": false
+}
