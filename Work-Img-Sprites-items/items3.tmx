@@ -399,6 +399,48 @@
  <tileset firstgid="20491" name="angostura-vyhonek" tilewidth="16" tileheight="16" tilecount="1" columns="1">
   <image source="angostura-vyhonek.png" width="16" height="16"/>
  </tileset>
+ <tileset firstgid="20492" name="antilev-lektv-bez" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="antilev-lektv-bez.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="20493" name="antilev-lektv" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="antilev-lektv.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="20494" name="items_spritesheet13a" tilewidth="16" tileheight="16" tilecount="400" columns="20">
+  <image source="items_spritesheet13a.png" width="320" height="320"/>
+ </tileset>
+ <tileset firstgid="20894" name="rotulice_zihadlo" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="rotulice_zihadlo.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="20895" name="dopis" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="dopis.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="20896" name="tileset-uby-skola" tilewidth="16" tileheight="16" tilecount="6400" columns="80">
+  <image source="../Work-Img-Sprites-map/tileset-uby-skola.png" width="1280" height="1280"/>
+ </tileset>
+ <tileset firstgid="27296" name="doza" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="doza.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="27297" name="Sugar" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="Sugar.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="27298" name="trnka-kompot-r" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="trnka-kompot-r.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="27299" name="trnka-kompot-d" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="trnka-kompot-d.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="27300" name="med-r" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="med-r.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="27301" name="med-d" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="med-d.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="27302" name="kniha" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="kniha.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="27303" name="ukradena" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="ukradena.png" width="16" height="16"/>
+ </tileset>
  <layer name="Vrstva dlaždic 1" width="20" height="20">
   <data encoding="csv">
 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,
@@ -410,7 +452,7 @@
 0,0,0,0,0,0,0,8558,8557,8559,8560,8561,8621,8641,8962,8963,8964,8965,8966,8967,
 8968,8969,8970,8971,8972,8973,8974,8975,8976,8978,8979,8980,8981,8982,8983,8984,0,8985,20466,20467,
 20468,20469,20470,20471,20472,20481,20474,20475,20476,20477,20478,20479,20480,20482,20483,20484,20485,20486,20471,20487,
-20488,20489,20490,3008,20491,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+20488,20489,20490,3008,20491,20679,20680,20681,20492,20493,20894,20895,27296,27297,27298,27299,27300,27301,27302,27303,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
