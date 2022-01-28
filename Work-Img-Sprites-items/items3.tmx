@@ -441,6 +441,84 @@
  <tileset firstgid="27303" name="ukradena" tilewidth="16" tileheight="16" tilecount="1" columns="1">
   <image source="ukradena.png" width="16" height="16"/>
  </tileset>
+ <tileset firstgid="27304" name="svetlokvet" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="svetlokvet.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="27305" name="prak" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="prak.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="27306" name="Bandage" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="Bandage.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="27307" name="Bandage-p" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="Bandage-p.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="27308" name="Bandage-s" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="Bandage-s.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="27309" name="maso-susene" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="maso-susene.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="27310" name="useň02" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="useň02.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="27311" name="kost" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="kost.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="27312" name="sadlo02" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="sadlo02.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="27313" name="kost02" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="kost02.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="27314" name="peri-hnede" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="peri-hnede.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="27315" name="plástev" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="plástev.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="27316" name="ohniste" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="ohniste.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="27317" name="klacek-bariera2" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="klacek-bariera2.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="27318" name="hermanek02" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="hermanek02.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="27319" name="smolne-lepidlo" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="smolne-lepidlo.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="27320" name="Rozd-ohen" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="Rozd-ohen.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="27321" name="halena-kozena" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="halena-kozena.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="27322" name="sul" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="sul.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="27323" name="drevena-miska" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="drevena-miska.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="27324" name="drevena-miska-h-polevka" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="drevena-miska-h-polevka.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="27325" name="mast" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="mast.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="27326" name="drevena-miska-mast" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="drevena-miska-mast.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="27327" name="miska-mast" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="miska-mast.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="27328" name="noviny" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="noviny.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="27329" name="skaly" tilewidth="16" tileheight="16" tilecount="2500" columns="50">
+  <image source="../Work-Img-Sprites-map/skaly.png" width="800" height="800"/>
+ </tileset>
  <layer name="Vrstva dlaždic 1" width="20" height="20">
   <data encoding="csv">
 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,
@@ -453,8 +531,8 @@
 8968,8969,8970,8971,8972,8973,8974,8975,8976,8978,8979,8980,8981,8982,8983,8984,0,8985,20466,20467,
 20468,20469,20470,20471,20472,20481,20474,20475,20476,20477,20478,20479,20480,20482,20483,20484,20485,20486,20471,20487,
 20488,20489,20490,3008,20491,20679,20680,20681,20492,20493,20894,20895,27296,27297,27298,27299,27300,27301,27302,27303,
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+27304,27305,27306,27307,27308,27309,27310,27313,27312,27314,27315,27300,27301,27317,27316,27318,27319,27320,27321,27322,
+27323,27324,27325,27326,27327,27328,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
