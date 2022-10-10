@@ -15,10 +15,13 @@
  <tileset firstgid="24" name="hoe1-2" tilewidth="16" tileheight="16" tilecount="1" columns="1">
   <image source="hoe1-2.png" width="16" height="16"/>
  </tileset>
+ <tileset firstgid="25" name="prak-tool" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="prak-tool.png" width="16" height="16"/>
+ </tileset>
  <layer name="Vrstva dlaždic 1" width="20" height="5">
   <data encoding="csv">
 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,
-22,21,23,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+22,21,23,24,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
