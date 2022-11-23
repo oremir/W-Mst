@@ -540,6 +540,21 @@
  <tileset firstgid="29842" name="prut" tilewidth="16" tileheight="16" tilecount="1" columns="1">
   <image source="prut.png" width="16" height="16"/>
  </tileset>
+ <tileset firstgid="29843" name="Torn_Boots" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="Torn_Boots.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="29844" name="Broken_Bottle" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="Broken_Bottle.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="29845" name="Seaweed" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="Seaweed.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="29846" name="Carp" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="Carp.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="29847" name="Sea_Bass" tilewidth="16" tileheight="16" tilecount="1" columns="1">
+  <image source="Sea_Bass.png" width="16" height="16"/>
+ </tileset>
  <layer name="Vrstva dlaždic 1" width="20" height="20">
   <data encoding="csv">
 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,
@@ -554,7 +569,7 @@
 20488,20489,20490,3008,20491,20679,20680,20681,20492,20493,20894,20895,27296,27297,27298,27299,27300,27301,27302,27303,
 27304,27305,27306,27307,27308,27309,27310,27313,27312,27314,27315,27300,27301,27317,27316,27318,27319,27320,27321,27322,
 27323,27324,27325,27326,27327,27328,29829,29831,29830,29833,29832,29834,29835,29836,29837,29838,20471,29839,29840,29841,
-29842,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+29842,29843,29844,29845,29846,29847,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
