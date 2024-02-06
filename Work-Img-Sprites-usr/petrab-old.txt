@@ -1,0 +1,102 @@
+{
+    "type": "player",
+    "name": "Petra Bedravova",
+    "usr_id": 67,
+    "x": 195.5,
+    "y": 352,
+    "properties": {
+        "attack": "1",
+        "bouncing": "20",
+        "defense": "1",
+        "group": "players",
+        "health": "100",
+        "items": "1-10",
+        "jumping_speed": "500",
+        "money": "0",
+        "pool": "players",
+        "texture": "girl_blue_mage_spritesheet",
+        "walking_speed": "90",
+        "skills": {
+            "standard": {
+                "exp": "1",
+                "level": "1"
+            },
+            "fighter": {
+                "exp": "1",
+                "level": "1"
+            },
+            "woodcutter": {
+                "exp": "1",
+                "level": "1"
+            },
+            "stonebreaker": {
+                "exp": "1",
+                "level": "1"
+            }
+        },
+        "stats": {
+            "health": 100,
+            "health_max": 100,
+            "stress": 0,
+            "sin": 0
+        },
+        "abilities": {
+            "strength": "8",
+            "constitution": "8",
+            "intelligence": "8"
+        },
+        "places": [
+            {
+                "map_int": "8",
+                "region": "2",
+                "visit": "3"
+            },
+            {
+                "map_int": "53",
+                "region": "2",
+                "visit": 1
+            }
+        ],
+        "equip": "27",
+        "time": 1598967967380,
+        "moon": 5,
+        "badges": {
+            "0": "M",
+            "1": "S_3",
+            "2": "K_48",
+            "6": "M_3"
+        },
+        "ren_texture": "",
+        "gender": "female",
+        "bag": "",
+        "gtimems": 0,
+        "gtimealpha": "0",
+        "moon_loop": 0,
+        "expequip": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "relations": [],
+        "quests": {
+            "ass": {},
+            "fin": []
+        },
+        "keys": [],
+        "rumours": [],
+        "buffs": [],
+        "broadcast": [],
+        "followers": []
+    },
+    "map": {
+        "old_int": 53,
+        "new_int": 53
+    },
+    "logged": false
+}

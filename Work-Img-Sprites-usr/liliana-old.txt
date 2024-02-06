@@ -1,0 +1,104 @@
+{
+    "type": "player",
+    "name": "Liliana Bakli",
+    "usr_id": 80,
+    "x": 119,
+    "y": 352,
+    "properties": {
+        "attack": "1",
+        "bouncing": "20",
+        "defense": "1",
+        "group": "players",
+        "health": "100",
+        "items": "1-10",
+        "jumping_speed": "500",
+        "money": "0",
+        "pool": "players",
+        "texture": "girl_orange_mage_spritesheet",
+        "walking_speed": "90",
+        "skills": {
+            "standard": {
+                "exp": "1",
+                "level": "1"
+            },
+            "fighter": {
+                "exp": "1",
+                "level": "1"
+            },
+            "woodcutter": {
+                "exp": "1",
+                "level": "1"
+            },
+            "stonebreaker": {
+                "exp": "1",
+                "level": "1"
+            }
+        },
+        "stats": {
+            "health": 100,
+            "health_max": 100,
+            "stress": 0,
+            "sin": 0
+        },
+        "abilities": {
+            "strength": "8",
+            "constitution": "8",
+            "intelligence": "8"
+        },
+        "places": [
+            {
+                "map_int": "8",
+                "region": "2",
+                "visit": "2"
+            },
+            {
+                "map_int": "53",
+                "region": "2",
+                "visit": 1
+            }
+        ],
+        "equip": "27",
+        "time": 1599474346805,
+        "gtimems": 3740580000,
+        "moon": 5,
+        "badges": {
+            "0": "M",
+            "1": "S_3",
+            "3": "K_65",
+            "6": "M_3"
+        },
+        "ren_texture": "",
+        "gender": "female",
+        "bag": "",
+        "gtimealpha": "0",
+        "moon_loop": 0,
+        "broadcast": [
+            "80|78|0|1|Dobru00fd den, kde je spru00e1vce?"
+        ],
+        "expequip": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "relations": [],
+        "quests": {
+            "ass": {},
+            "fin": []
+        },
+        "keys": [],
+        "rumours": [],
+        "buffs": [],
+        "followers": []
+    },
+    "map": {
+        "old_int": 53,
+        "new_int": 53
+    },
+    "logged": false
+}

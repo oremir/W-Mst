@@ -65,18 +65,6 @@
         "gtimems": 3741300000,
         "moon": 5,
         "relations": [
-            {
-                "name": "Naomi Anemone",
-                "uid": 92,
-                "type": "player",
-                "exp": 1
-            },
-            {
-                "name": "Obch. Agnes",
-                "uid": 5,
-                "type": "NPC",
-                "exp": 1
-            }
         ],
         "ren_texture": "girl_st_ren",
         "gender": "female",
